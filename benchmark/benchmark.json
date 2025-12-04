@@ -1,0 +1,1010 @@
+{
+    "MetaphorIdentificationMapping": [
+        {
+            "id": "MIM1",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "His idea lit a fire under the team, burning away their doubts.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM2",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The economy is entering a deep freeze. Businesses are bracing for the chill, hoping for a thaw in the next quarter.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM3",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Their plan to revitalize the industry took root and began to grow stronger each year.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM4",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The negotiations dragged on endlessly, caught in an unbreakable loop of disagreement.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM5",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The project finally took flight after months of delays.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM6",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Her words were a sharp dagger, cutting through his confidence.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM7",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Innovation is the lifeblood of a thriving company, keeping it alive and competitive.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM8",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Time is a thief that steals our youth before we realize it.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM9",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The stock market soared to new heights, riding the waves of economic optimism.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM10",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The classroom was a battleground where ideas clashed and perspectives were tested.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM11",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The government is building a bridge between industries to foster collaboration.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM12",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Their friendship weathered the storm, emerging stronger than ever.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM13",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The startup’s early struggles laid a strong foundation for future growth.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM14",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The data flows through the system like water in a river, sometimes meeting obstacles along the way.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM15",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "His speech planted a seed of doubt in the audience’s mind.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM16",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Creativity is the fuel that powers artistic expression.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM17",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Success is a mountain that requires effort and perseverance to climb.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM18",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The political debate turned into a circus, full of spectacle and noise.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM19",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "She carried the weight of expectations on her shoulders.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM20",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Their enthusiasm ignited a spark that spread throughout the entire team.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM21",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "His anger erupted like a volcano, leaving destruction in its wake.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM22",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The new policy acts as a double-edged sword, offering both benefits and risks.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM23",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "Her vision illuminated the path forward in a moment of crisis.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM24",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The rumor spread like wildfire, impossible to contain.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        },
+        {
+            "id": "MIM25",
+            "task_description": "Analyze the following statement and explain its meaning.",
+            "problem_text": "The competition was a chess match, with each move carefully calculated.",
+            "evaluation_criteria": [
+                "Precision in structural interpretation – How well does the response capture the key conceptual elements?",
+                "Coherence of explanation – Does the explanation provide a logically consistent and insightful account of the given statement?",
+                "Accuracy in mapping relationships – Are key relationships between described entities correctly established?"
+            ]
+        }
+    ],
+  "DomainSpecificReasoning": [
+    {
+      "id": "DSR1",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does an electric circuit work?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR2",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How do companies compete in a market?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR3",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does the immune system protect the body from infections?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR4",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a computer process and execute commands?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR5",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does the brain store and retrieve memories?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR6",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does the blockchain work?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR7",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does an economy experience inflation?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR8",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a black hole affect space-time?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR9",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does machine learning improve over time?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR10",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a GPS system determine location?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR11",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a neuron transmit signals?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR12",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does climate change impact ocean currents?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR13",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a self-driving car perceive its surroundings?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR14",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does an airplane generate lift?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR15",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does nuclear fission produce energy?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR16",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a telescope capture images of distant galaxies?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR17",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a voting system ensure fairness?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR18",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does encryption secure data?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR19",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a financial market predict trends?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR20",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does a digital image get processed by AI?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR21",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does the human brain process language?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR22",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does the immune system distinguish between harmful and harmless substances?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR23",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How do large-scale weather patterns develop?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR24",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does quantum superposition differ from classical physics?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    },
+    {
+      "id": "DSR25",
+      "task_description": "Explain the following concept using an analogy.",
+      "problem_text": "How does the human brain adapt to learning new skills?",
+      "evaluation_criteria": [
+        "Precision in structural interpretation",
+        "Coherence of explanation",
+        "Accuracy in mapping relationships"
+      ]
+    }
+  ],
+  "ExplanationTeachingTasks": [
+    {
+      "id": "ETT1",
+      "task_description": "Explain the concept in a way that is easy to understand.",
+      "problem_text": "How does a neural network learn?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of the explanation",
+        "Use of an effective analogy or metaphor"
+      ]
+    },
+    {
+      "id": "ETT2",
+      "task_description": "Explain the historical event in a way that is easy to understand.",
+      "problem_text": "How did the main alliances of World War II form?",
+      "evaluation_criteria": [
+        "Historical accuracy",
+        "Coherence and completeness of the explanation",
+        "Use of an analogy or metaphor where applicable"
+      ]
+    },
+    {
+      "id": "ETT3",
+      "task_description": "Explain the following concept in a simple way.",
+      "problem_text": "What is artificial intelligence and how does it work?",
+      "evaluation_criteria": [
+        "Clarity for general audiences",
+        "Accuracy of technical explanation",
+        "Effectiveness of analogy use"
+      ]
+    },
+    {
+      "id": "ETT4",
+      "task_description": "Explain the following economic concept in an intuitive way.",
+      "problem_text": "How does inflation impact the economy?",
+      "evaluation_criteria": [
+        "Economic accuracy",
+        "Use of simple, intuitive explanation",
+        "Clarity and accessibility for non-experts"
+      ]
+    },
+    {
+      "id": "ETT5",
+      "task_description": "Explain the following physical concept using an analogy.",
+      "problem_text": "How does gravity influence the movement of planets?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of explanation",
+        "Effectiveness of analogy use"
+      ]
+    },
+    {
+      "id": "ETT6",
+      "task_description": "Explain the following concept in a way that is easy to understand.",
+      "problem_text": "What happens during photosynthesis?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Scientific accuracy",
+        "Use of an intuitive analogy"
+      ]
+    },
+    {
+      "id": "ETT7",
+      "task_description": "Explain the following concept in a simple way.",
+      "problem_text": "How do vaccines help protect against diseases?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Scientific accuracy",
+        "Effectiveness of metaphor"
+      ]
+    },
+    {
+      "id": "ETT8",
+      "task_description": "Explain the following financial concept in an intuitive way.",
+      "problem_text": "How does compound interest work?",
+      "evaluation_criteria": [
+        "Economic accuracy",
+        "Use of simple, intuitive explanation",
+        "Clarity for non-experts"
+      ]
+    },
+    {
+      "id": "ETT9",
+      "task_description": "Explain the following technological concept in an intuitive way.",
+      "problem_text": "How does the Internet function?",
+      "evaluation_criteria": [
+        "Clarity for general audiences",
+        "Accuracy of technical explanation",
+        "Effectiveness of analogy use"
+      ]
+    },
+    {
+      "id": "ETT10",
+      "task_description": "Explain the following concept in a way that is easy to understand.",
+      "problem_text": "How do airplanes stay in the air?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of scientific explanation",
+        "Use of an effective metaphor"
+      ]
+    },
+    {
+      "id": "ETT11",
+      "task_description": "Explain the following concept in an intuitive way.",
+      "problem_text": "How does the human brain process information?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of scientific explanation",
+        "Effectiveness of analogy use"
+      ]
+    },
+    {
+      "id": "ETT12",
+      "task_description": "Explain the following biological concept using a metaphor.",
+      "problem_text": "How does the immune system fight off infections?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of explanation",
+        "Use of an effective analogy"
+      ]
+    },
+    {
+      "id": "ETT13",
+      "task_description": "Explain the following astronomical concept in a simple way.",
+      "problem_text": "How do black holes affect space-time?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Scientific accuracy",
+        "Effectiveness of analogy use"
+      ]
+    },
+    {
+      "id": "ETT14",
+      "task_description": "Explain the following social concept using an analogy.",
+      "problem_text": "How does democracy function in a society?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Coherence of explanation",
+        "Use of a relatable metaphor"
+      ]
+    },
+    {
+      "id": "ETT15",
+      "task_description": "Explain the following physics concept in a simple way.",
+      "problem_text": "How does an electric current flow?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Scientific accuracy",
+        "Effectiveness of analogy"
+      ]
+    },
+    {
+      "id": "ETT16",
+      "task_description": "Explain the following chemistry concept in an intuitive way.",
+      "problem_text": "How do chemical reactions work?",
+      "evaluation_criteria": [
+        "Clarity for general audiences",
+        "Scientific accuracy",
+        "Use of an intuitive metaphor"
+      ]
+    },
+    {
+      "id": "ETT17",
+      "task_description": "Explain the following concept in a way that is easy to understand.",
+      "problem_text": "How does blockchain technology ensure security?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of technical explanation",
+        "Use of an effective analogy"
+      ]
+    },
+    {
+      "id": "ETT18",
+      "task_description": "Explain the following concept in a simple way.",
+      "problem_text": "How do magnets generate force?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of scientific explanation",
+        "Effectiveness of analogy use"
+      ]
+    },
+    {
+      "id": "ETT19",
+      "task_description": "Explain the following concept in an intuitive way.",
+      "problem_text": "How does the stock market function?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Economic accuracy",
+        "Use of an intuitive metaphor"
+      ]
+    },
+    {
+      "id": "ETT20",
+      "task_description": "Explain the following environmental concept in an intuitive way.",
+      "problem_text": "How does climate change affect global weather patterns?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Scientific accuracy",
+        "Use of an intuitive analogy"
+      ]
+    },
+    {
+      "id": "ETT21",
+      "task_description": "Explain the following biological process in a simple way.",
+      "problem_text": "How do plants transport water from their roots to their leaves?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of scientific explanation",
+        "Effectiveness of analogy use"
+      ]
+    },
+    {
+      "id": "ETT22",
+      "task_description": "Explain the following concept in a simple way.",
+      "problem_text": "How do satellites stay in orbit?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Scientific accuracy",
+        "Use of an intuitive metaphor"
+      ]
+    },
+    {
+      "id": "ETT23",
+      "task_description": "Explain the following psychological concept using an analogy.",
+      "problem_text": "How does memory retrieval work in the brain?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Scientific accuracy",
+        "Use of an effective analogy"
+      ]
+    },
+    {
+      "id": "ETT24",
+      "task_description": "Explain the following process in a way that is easy to understand.",
+      "problem_text": "How does a camera capture and store images?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Accuracy of explanation",
+        "Use of an intuitive metaphor"
+      ]
+    },
+    {
+      "id": "ETT25",
+      "task_description": "Explain the following economic principle in an intuitive way.",
+      "problem_text": "How does supply and demand influence prices?",
+      "evaluation_criteria": [
+        "Clarity for non-experts",
+        "Economic accuracy",
+        "Use of an effective analogy"
+      ]
+    }
+  ],
+  "ReadingComprehensionMetaphors": [
+    {
+      "id": "RCM1",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "All the world’s a stage, and all the men and women merely players...",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM2",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "Congress is stuck in a traffic jam of stalled bills, with no detour in sight.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM3",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "His words cut deep, leaving wounds that time struggled to heal.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM4",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "Their friendship was an unshakable bridge, built on years of trust and shared experiences.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM5",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "The company's expansion hit a brick wall, forcing them to reconsider their strategy.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM6",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "Her voice was a lighthouse guiding him through the storm of uncertainty.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM7",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "Their love was a wildfire, intense but consuming everything in its path.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM8",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "The politician’s speech planted seeds of hope in the hearts of his listeners.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM9",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "The stock market is riding a rollercoaster of highs and lows.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM10",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "His patience was an unshakable mountain in the face of adversity.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM11",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "The startup’s growth was a rocket launch—fast, powerful, and hard to control.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM12",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "Their words wove a web of lies, trapping the unsuspecting audience.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM13",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "Hope flickered like a candle in the darkness of despair.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM14",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "The negotiations were a game of chess, each side anticipating the other's move.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM15",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "His ambition was a tidal wave, sweeping aside all obstacles in its path.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM16",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "Time is a thief that steals our moments before we realize their value.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM17",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "The teacher’s words were a bridge connecting knowledge to understanding.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM18",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "The new law is a double-edged sword, benefiting some but harming others.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM19",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "She carried the weight of the world on her shoulders.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM20",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "His confidence was a shield, deflecting criticism and doubt.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM21",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "Her laughter was music, bringing harmony to the chaos around her.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM22",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "The city was a living organism, its streets like veins carrying life throughout its body.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM23",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "The economy is a house of cards, ready to collapse at the slightest disturbance.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM24",
+      "task_description": "Analyze and interpret the meaning of the following passage.",
+      "problem_text": "His ideas were seeds, taking root in the minds of those who listened.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    },
+    {
+      "id": "RCM25",
+      "task_description": "Interpret the meaning of the following passage.",
+      "problem_text": "Their determination was a fire that refused to be extinguished, no matter the storm.",
+      "evaluation_criteria": [
+        "Precision in Metaphor Identification",
+        "Completeness of Source-Target Mapping",
+        "Depth of Interpretive Insight"
+      ]
+    }
+  ]
+}
